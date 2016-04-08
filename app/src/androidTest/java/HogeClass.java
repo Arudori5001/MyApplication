@@ -5,7 +5,5 @@ public class HogeClass {
 
     public void hoge(){
 
-
-
     }
 }
